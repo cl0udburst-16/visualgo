@@ -18,7 +18,7 @@ public:
   void insert(int i, int element){
     if(i>lenFilled){ return; }
 
-    //TODO: Add
+    //TODO: Add insertion
   }
 
   void show(){ //TODO: Implement
